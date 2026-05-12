@@ -1,18 +1,23 @@
 from playwright.sync_api import sync_playwright
 from scraper.job_scraper import scrape_jobs
+from exporter.excel_exporter import export_jobs_to_excel
 
 def main():
     jobs = scrape_jobs()
 
-    print("\nResults")
-    print("=" * 50)
-    for(job) in jobs:
-        print("Title:", job["title"])
-        print("Company:", job["company"])
-        print("Location:", job["location"])
-        print("Description:", job["description"])
-        print("posted at:", job["posted"])
-        print("=" * 50)
+    export_jobs_to_excel(jobs)
+
+
+
+    # print("\nResults")
+    # print("=" * 50)
+    # for(job) in jobs:
+    #     print("Title:", job["title"])
+    #     print("Company:", job["company"])
+    #     print("Location:", job["location"])
+    #     print("Description:", job["description"])
+    #     print("posted at:", job["posted"])
+    #     print("=" * 50)
     
 
 if __name__ == "__main__":
