@@ -61,6 +61,7 @@ def scrape_jobs():
                     "location": job_location,
                     "description": job_description,
                     "posted": job_posted,
+                    "link": apply_link
                 }
 
                 jobs.append(job_data)
