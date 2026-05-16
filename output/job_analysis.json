@@ -1,0 +1,151 @@
+[
+    {
+        "title": "Junior Software Engineer",
+        "company": "BrightPath Technologies",
+        "location": "San Jose, CA",
+        "url": "https://example.com/jobs/junior-software-engineer",
+        "required_skills": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "SQL databases",
+            "Git",
+            "basic unit testing"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "cloud deployment",
+            "CI/CD"
+        ],
+        "technologies": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Docker",
+            "cloud platforms",
+            "CI/CD"
+        ],
+        "seniority_level": "Junior",
+        "responsibilities": [
+            "developing API endpoints",
+            "fixing bugs",
+            "writing clean code",
+            "working with senior engineers",
+            "participating in code reviews"
+        ],
+        "important_keywords": [
+            "backend services",
+            "Junior Software Engineer",
+            "BrightPath Technologies",
+            "San Jose, CA"
+        ],
+        "missing_skills": [],
+        "resume_suggestions": "Highlight experience with Java, Spring Boot, REST APIs, SQL databases, and Git. Mention any projects that involved writing clean code or participating in code reviews. Include any experience with Docker, cloud deployment, or CI/CD if applicable.",
+        "summary": "BrightPath Technologies is hiring a Junior Software Engineer to develop and maintain backend services. The role requires proficiency in Java, Spring Boot, REST APIs, SQL databases, and Git, with an emphasis on writing clean code and participating in code reviews. Preferred skills include Docker, cloud deployment, and CI/CD."
+    },
+    {
+        "title": "Entry-Level QA Automation Engineer",
+        "company": "Northstar Health Systems",
+        "location": "Remote",
+        "url": "https://example.com/jobs/qa-automation-engineer",
+        "required_skills": [
+            "manual testing",
+            "test case design",
+            "bug reporting",
+            "regression testing",
+            "automation"
+        ],
+        "preferred_skills": [
+            "Playwright",
+            "Selenium",
+            "Python",
+            "JavaScript",
+            "Git",
+            "Jira"
+        ],
+        "technologies": [
+            "Playwright",
+            "Selenium",
+            "Python",
+            "JavaScript",
+            "Git",
+            "Jira"
+        ],
+        "seniority_level": "entry-level",
+        "responsibilities": [
+            "creating test cases",
+            "executing manual tests",
+            "automating important user flows",
+            "documenting defects",
+            "working closely with developers and product teams"
+        ],
+        "important_keywords": [
+            "QA Automation Engineer",
+            "web applications",
+            "release quality",
+            "manual testing",
+            "test case design",
+            "bug reporting",
+            "regression testing",
+            "automation",
+            "Playwright",
+            "Selenium",
+            "Python",
+            "JavaScript",
+            "Git",
+            "Jira"
+        ],
+        "missing_skills": [],
+        "resume_suggestions": "",
+        "summary": "Northstar Health Systems is hiring an Entry-Level QA Automation Engineer to test web applications and support release quality. The candidate should have experience with manual testing, test case design, bug reporting, regression testing, and basic automation. Preferred skills include Playwright, Selenium, Python, JavaScript, Git, and Jira."
+    },
+    {
+        "title": "Technical Support Engineer",
+        "company": "CloudDesk Solutions",
+        "location": "Pleasanton, CA",
+        "url": "https://example.com/jobs/technical-support-engineer",
+        "required_skills": [
+            "strong communication skills",
+            "basic networking knowledge",
+            "Windows troubleshooting",
+            "macOS troubleshooting",
+            "ticket management",
+            "SQL basics",
+            "log analysis",
+            "customer service experience"
+        ],
+        "preferred_skills": [
+            "REST APIs",
+            "SaaS platforms",
+            "Linux commands",
+            "support tools"
+        ],
+        "technologies": [
+            "Windows",
+            "macOS",
+            "SQL",
+            "REST APIs",
+            "SaaS platforms",
+            "Linux",
+            "ticket management systems"
+        ],
+        "seniority_level": "Entry-level to Mid-level",
+        "responsibilities": [
+            "responding to support tickets",
+            "reproducing customer issues",
+            "documenting solutions",
+            "escalating bugs",
+            "collaborating with engineering teams"
+        ],
+        "important_keywords": [
+            "Technical Support Engineer",
+            "CloudDesk Solutions",
+            "Pleasanton, CA"
+        ],
+        "missing_skills": [],
+        "resume_suggestions": "Highlight experience in troubleshooting software and system issues, strong communication skills, and familiarity with basic networking, Windows, macOS, SQL, ticket management, log analysis, and customer service. Include any experience or knowledge of REST APIs, SaaS platforms, Linux commands, and support tools.",
+        "summary": "CloudDesk Solutions is hiring a Technical Support Engineer in Pleasanton, CA to assist customers with troubleshooting software and system issues. The role requires strong communication skills, basic networking knowledge, Windows and macOS troubleshooting, ticket management, SQL basics, log analysis, and customer service experience. Familiarity with REST APIs, SaaS platforms, Linux commands, and support tools is preferred."
+    }
+]

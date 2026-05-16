@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Junior Software Engineer",
+    "company": "BrightPath Technologies",
+    "location": "San Jose, CA",
+    "url": "https://example.com/jobs/junior-software-engineer",
+    "description": "We are looking for a Junior Software Engineer to help build and maintain backend services. The ideal candidate has experience with Java, Spring Boot, REST APIs, SQL databases, Git, and basic unit testing. Responsibilities include developing API endpoints, fixing bugs, writing clean code, working with senior engineers, and participating in code reviews. Experience with Docker, cloud deployment, and CI/CD is preferred but not required.",
+    "source": "sample_data",
+    "created_at": "2026-05-15"
+  },
+  {
+    "title": "Entry-Level QA Automation Engineer",
+    "company": "Northstar Health Systems",
+    "location": "Remote",
+    "url": "https://example.com/jobs/qa-automation-engineer",
+    "description": "We are hiring an Entry-Level QA Automation Engineer to test web applications and support release quality. The candidate should understand manual testing, test case design, bug reporting, regression testing, and basic automation. Experience with Playwright, Selenium, Python, JavaScript, Git, and Jira is helpful. Responsibilities include creating test cases, executing manual tests, automating important user flows, documenting defects, and working closely with developers and product teams.",
+    "source": "sample_data",
+    "created_at": "2026-05-15"
+  },
+  {
+    "title": "Technical Support Engineer",
+    "company": "CloudDesk Solutions",
+    "location": "Pleasanton, CA",
+    "url": "https://example.com/jobs/technical-support-engineer",
+    "description": "We are seeking a Technical Support Engineer to help customers troubleshoot software and system issues. The role requires strong communication skills, basic networking knowledge, Windows and macOS troubleshooting, ticket management, SQL basics, log analysis, and customer service experience. Familiarity with REST APIs, SaaS platforms, Linux commands, and support tools is preferred. Responsibilities include responding to support tickets, reproducing customer issues, documenting solutions, escalating bugs, and collaborating with engineering teams.",
+    "source": "sample_data",
+    "created_at": "2026-05-15"
+  }
+]
